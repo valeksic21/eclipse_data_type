@@ -19,7 +19,7 @@ public class BiNumber {
 	
 	int add() {
 		//handles math adding
-		return first+second+4;
+		return first+second+7;
 	}
 	
 	int multiply() {
